@@ -1,6 +1,6 @@
 import 'package:final_exam_c211035/task_2/details_screen.dart';
 import 'package:flutter/material.dart';
-import 'database_helper.dart';
+import 'task_5/database_helper.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
